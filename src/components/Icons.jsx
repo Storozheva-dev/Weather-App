@@ -1,7 +1,7 @@
 import windIcon from "../assets/Wind.png";
 import humidityIcon from "../assets/humidity.png";
 import visibilityIcon from "../assets/visibility.png";
-git;
+
 import sunriseIcon from "../assets/Sunrise.png";
 import sunsetIcon from "../assets/Sunset.png";
 
